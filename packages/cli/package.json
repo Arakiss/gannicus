@@ -1,6 +1,6 @@
 {
   "name": "gannicus-cli",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "description": "CLI for Gannicus synthetic data generation",
   "type": "module",
   "bin": {

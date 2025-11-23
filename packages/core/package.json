@@ -1,6 +1,6 @@
 {
   "name": "gannicus",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "Core library for LLM-powered synthetic data generation",
   "type": "module",
   "main": "./dist/index.js",
