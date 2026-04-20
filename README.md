@@ -1,3 +1,5 @@
+> ⚠️ **Archived** — LLM-powered synthetic data generation is now a commodity feature inside the major LLM SDKs (structured output, JSON mode). Kept for history.
+
 # 🏛️ Gannicus
 
 > LLM-powered synthetic data generation for TypeScript | Generate realistic, coherent synthetic data with AI
